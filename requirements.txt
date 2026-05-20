@@ -1,0 +1,24 @@
+# requirements.txt
+
+```text
+pandas
+numpy
+scikit-learn
+kafka-python
+psycopg2-binary
+sqlalchemy
+joblib
+jupyter
+matplotlib
+seaborn
+```
+
+---
+
+# Install Requirements
+
+To install all project dependencies automatically, run:
+
+```bash
+pip install -r requirements.txt
+```
